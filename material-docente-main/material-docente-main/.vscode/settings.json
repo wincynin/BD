@@ -1,0 +1,5 @@
+{
+    "cSpell.ignoreWords": ["marp"],
+    "markdown.marp.themes": ["transparencias/styles/bbdd.css"],
+    "markdown.marp.html": "all",
+}

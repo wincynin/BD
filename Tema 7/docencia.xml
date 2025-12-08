@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE docencia SYSTEM "docencia.dtd">
+<docencia>
+	<profesor codigo-prof="P01" >
+		<nombre>Fernando</nombre>
+		<apellidos>Ortega Requena</apellidos>
+		<categoria>Coordinador</categoria>
+		<sueldo>1000</sueldo>
+		<grupo codigo-grupo="GM21">
+			<asignatura>Bases de datos</asignatura>
+			<curso>2019/2020</curso>
+		</grupo> 
+		<grupo codigo-grupo="GM23">
+			<asignatura>Bases de datos</asignatura>
+			<curso>2019/2020</curso>
+		</grupo>             
+	</profesor>
+	<profesor codigo-prof="P02" >
+		<nombre>Raúl</nombre>
+		<apellidos>Lara Cabrera</apellidos>
+		<categoria>Profesor</categoria>
+		<sueldo>1800</sueldo>
+		<grupo codigo-grupo="GM22">
+			<asignatura>Bases de datos</asignatura>
+			<curso>2019/2020</curso>
+		</grupo>      
+		<grupo codigo-grupo="GT22">
+			<asignatura>Bases de datos</asignatura>
+			<curso>2019/2020</curso>
+		</grupo>         
+	</profesor>
+	<profesor codigo-prof="P03" >
+		<nombre>Santiago</nombre>
+		<apellidos>Alonso Villaverde</apellidos>
+		<categoria>Profesor</categoria>
+		<sueldo>2500</sueldo>
+		<grupo codigo-grupo="GT21">
+			<asignatura>Bases de datos</asignatura>
+			<curso>2019/2020</curso>
+		</grupo>             
+	</profesor>   
+	<profesor codigo-prof="P04" >
+		<nombre>Edgar</nombre>
+		<apellidos>Talavera Muñoz</apellidos>
+		<categoria>Profesor</categoria>
+		<sueldo>1200</sueldo>            
+	</profesor>      
+</docencia>

@@ -1,0 +1,19 @@
+<!ELEMENT docencia (profesor)+>
+
+<!ELEMENT profesor (nombre,apellidos,categoria,grupo*)>
+<!ATTLIST profesor
+  codigo-prof ID #REQUIRED>
+
+<!ELEMENT nombre (#PCDATA)>
+
+<!ELEMENT apellidos (#PCDATA)>
+
+<!ELEMENT categoria (#PCDATA)>
+
+<!ELEMENT grupo (asignatura,curso)>
+<!ATTLIST grupo
+  codigo-grupo ID #REQUIRED>
+
+<!ELEMENT asignatura (#PCDATA)>
+
+<!ELEMENT curso (#PCDATA)>
