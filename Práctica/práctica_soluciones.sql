@@ -541,7 +541,7 @@ SELECT @resultado;
 -- Muestra detalles de recetas de forma simplificada
 CREATE OR REPLACE VIEW view_prescribed_medications AS
 SELECT 
-	pr.patientid AS "Patient SSN",
+    pr.patientid AS "Patient SSN",   -- <--- THIS IS THE MISSING COLUMN
     m.code AS "Medication Code",
     m.name AS "Medication Name",
     m.brand AS "Brand",

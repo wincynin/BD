@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class App {
 
     // Connection Config (Matches your Docker setup)
-    private static final String URL = "jdbc:mysql://127.0.0.1:3306/hospital_management_system?useSSL=false&allowPublicKeyRetrieval=true";
+    private static final String URL = "jdbc:mysql://127.0.0.1:3307/hospital_management_system?useSSL=false&allowPublicKeyRetrieval=true";
     private static final String USER = "hospital_guest";
     private static final String PASS = "1234";
 
