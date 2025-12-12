@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patient_medications ssn="100000001">
+	<prescription>
+		<med_code>1</med_code>
+		<med_name>Procrastin-X</med_name>
+		<brand></brand>
+		<patient_name>John Smith</patient_name>
+		<date>15/01/2024</date>
+		<doctor_name>John Dorian</doctor_name>
+	</prescription>
+	<prescription>
+		<med_code>1</med_code>
+		<med_name>Procrastin-X</med_name>
+		<brand></brand>
+		<patient_name>John Smith</patient_name>
+		<date>15/01/2021</date>
+		<doctor_name>John Dorian</doctor_name>
+	</prescription>
+	<prescription>
+		<med_code>1</med_code>
+		<med_name>Procrastin-X</med_name>
+		<brand></brand>
+		<patient_name>John Smith</patient_name>
+		<date>24/4/2008</date>
+		<doctor_name>John Dorian</doctor_name>
+	</prescription>
+	<prescription>
+		<med_code>1</med_code>
+		<med_name>Procrastin-X</med_name>
+		<brand></brand>
+		<patient_name>John Smith</patient_name>
+		<date>18/06/2024</date>
+		<doctor_name>Elliot Reid</doctor_name>
+	</prescription>
+	<prescription>
+		<med_code>7</med_code>
+		<med_name>CardioPlus</med_name>
+		<brand>General Pharma</brand>
+		<patient_name>John Smith</patient_name>
+		<date>15/01/2024</date>
+		<doctor_name>Christopher Turk</doctor_name>
+	</prescription>
+</patient_medications>
